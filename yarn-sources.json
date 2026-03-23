@@ -3335,9 +3335,9 @@
     },
     {
         "type": "file",
-        "url": "https://registry.yarnpkg.com/chiaki-lib/-/chiaki-lib-1.0.0.tgz#db8f9f3b54454d510c80234fafe053ef2fbc7e82",
-        "sha512": "c3ac5102fd1b650da721ec38a29a45573acbad5826dc43c26668fb1c65d04084efeecd2dbab1c4689b134c2a6f332cf0670fa1ee884de49acca89c07adac9541",
-        "dest-filename": "chiaki-lib-1.0.0.tgz",
+        "url": "https://registry.yarnpkg.com/chiaki-lib/-/chiaki-lib-1.0.1.tgz#39f8da9869f29b5962ff6d2cf17ff8c9113c5c61",
+        "sha512": "f0c8d9f59375f1fa4a154917716609f7d4b5c211015fb12e1e514b677cd5d320b6e935f67fc27b43209dc31f41b5a94084c9cb10a82ee0a5625318678d86408b",
+        "dest-filename": "chiaki-lib-1.0.1.tgz",
         "dest": "flatpak-node/yarn-mirror"
     },
     {
