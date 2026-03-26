@@ -5988,6 +5988,13 @@
     },
     {
         "type": "file",
+        "url": "https://registry.yarnpkg.com/react-spinners/-/react-spinners-0.17.0.tgz#d518913e2192afaae76c5b781929ea3bd7b1910e",
+        "sha512": "2fff074f295a066216c10cc88ccabed2fc9a457ba801ebf35a80f7e702a9353c71b585d6669fb1b6091f0fb638588b6e5f462f77130f53bf7eed586199b9ae4d",
+        "dest-filename": "react-spinners-0.17.0.tgz",
+        "dest": "flatpak-node/yarn-mirror"
+    },
+    {
+        "type": "file",
         "url": "https://registry.yarnpkg.com/react-textarea-autosize/-/react-textarea-autosize-8.5.9.tgz#ab8627b09aa04d8a2f45d5b5cd94c84d1d4a8893",
         "sha512": "5350c694840de40c208d3c8e127235a0270cb84af5a6fd6a3ad9250769789f23066c7cd6ac8d1e16c60ad33a2cd985aa028949c86d085896aa5a65a3e444e1d0",
         "dest-filename": "react-textarea-autosize-8.5.9.tgz",
