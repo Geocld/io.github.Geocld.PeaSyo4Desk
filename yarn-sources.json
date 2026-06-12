@@ -3335,13 +3335,6 @@
     },
     {
         "type": "file",
-        "url": "https://registry.yarnpkg.com/chiaki-lib/-/chiaki-lib-1.0.1.tgz#39f8da9869f29b5962ff6d2cf17ff8c9113c5c61",
-        "sha512": "f0c8d9f59375f1fa4a154917716609f7d4b5c211015fb12e1e514b677cd5d320b6e935f67fc27b43209dc31f41b5a94084c9cb10a82ee0a5625318678d86408b",
-        "dest-filename": "chiaki-lib-1.0.1.tgz",
-        "dest": "flatpak-node/yarn-mirror"
-    },
-    {
-        "type": "file",
         "url": "https://registry.yarnpkg.com/chokidar/-/chokidar-3.6.0.tgz#197c6cc669ef2a8dc5e7b4d97ee4e092c3eb0d5b",
         "sha512": "ed54f5ddf9a3a2d2a91a2a425bd244400bac10f13e122f2797afe0e050409889b418e38b32e6bd3430e8fc35a9d190310abddc3eae59a41aa63c04200dd6b63f",
         "dest-filename": "chokidar-3.6.0.tgz",
@@ -5725,6 +5718,13 @@
         "url": "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-0.1.12.tgz#d5e1a12e478a976d432ef3c58d534b9923164bb7",
         "sha512": "440d468d454c9ef605c6eaa8beb12a668c715b935466a6f02ad633fd3b7b9d77ab9342db2db9509abb2075e3b15794851dfd140e08234bf6d278e670b75a6611",
         "dest-filename": "path-to-regexp-0.1.12.tgz",
+        "dest": "flatpak-node/yarn-mirror"
+    },
+    {
+        "type": "file",
+        "url": "https://registry.yarnpkg.com/peasyo-lib/-/peasyo-lib-1.0.4.tgz#5b6fdd1df8bfa8a753e5208a72d6b832aa9d7b06",
+        "sha512": "8b7a0ff04bd6254cadba298a49be6f0c5727a27e62ec397766b6c128e18537298783021d1f21d33ab43c3701631b3038568908f8d082160bc7bcf844099625af",
+        "dest-filename": "peasyo-lib-1.0.4.tgz",
         "dest": "flatpak-node/yarn-mirror"
     },
     {
