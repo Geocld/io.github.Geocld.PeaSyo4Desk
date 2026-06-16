@@ -5722,9 +5722,9 @@
     },
     {
         "type": "file",
-        "url": "https://registry.yarnpkg.com/peasyo-lib/-/peasyo-lib-1.0.4.tgz#5b6fdd1df8bfa8a753e5208a72d6b832aa9d7b06",
-        "sha512": "8b7a0ff04bd6254cadba298a49be6f0c5727a27e62ec397766b6c128e18537298783021d1f21d33ab43c3701631b3038568908f8d082160bc7bcf844099625af",
-        "dest-filename": "peasyo-lib-1.0.4.tgz",
+        "url": "https://registry.yarnpkg.com/peasyo-lib/-/peasyo-lib-1.0.7.tgz#6159deb568006d8573d45679798a338944814fff",
+        "sha512": "106541dc74682acb2ba0e0a8f35d2df96f3d50072ce13a08fa8a12c50b52bc1bb6e4e99a8231c78c66668a39a4daf9627194305daf2b2adf58c9b5e117274378",
+        "dest-filename": "peasyo-lib-1.0.7.tgz",
         "dest": "flatpak-node/yarn-mirror"
     },
     {
