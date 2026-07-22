@@ -45,8 +45,8 @@ modules:
       # Build from source
       - type: git
         url: https://github.com/Geocld/PeaSyo4Desk
-        tag: v2.1.0
-        commit: a08a548b1fd2bdd6112214e2af87a14052056147
+        tag: v2.1.1
+        commit: 72f055664674fd24d3b571f06f15c44e3c8ed1b4
         dest: main
       - yarn-sources.json
       - type: inline
